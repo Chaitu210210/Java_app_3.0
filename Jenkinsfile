@@ -2,7 +2,7 @@
 
 pipeline{
 
-    agent any
+    agent Automation
     //agent { label 'Demo' }
 
     parameters{
